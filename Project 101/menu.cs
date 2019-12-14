@@ -34,6 +34,7 @@ namespace Project_101
             {
                 
                 check = check + (x * 20);
+                add1.addEnd(check);
                 
 
             }
